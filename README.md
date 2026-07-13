@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aayush120205/leetcode_dsa/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Aayush120205/leetcode_dsa/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/Aayush120205/leetcode_dsa/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aayush120205/leetcode_dsa/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Aayush120205/leetcode_dsa/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/Aayush120205/leetcode_dsa/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
@@ -23,4 +25,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aayush120205/leetcode_dsa/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Aayush120205/leetcode_dsa/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
