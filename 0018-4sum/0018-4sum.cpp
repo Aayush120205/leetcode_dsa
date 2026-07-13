@@ -25,12 +25,9 @@ public:
                         }
                     else if(sum<target) k++;
                     else l--;
-
-                }
+                    }
             }
         }
-
         return ans;
-        
-    }
+        }
 };
