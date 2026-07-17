@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aayush120205/leetcode_dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Aayush120205/leetcode_dsa/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/Aayush120205/leetcode_dsa/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Aayush120205/leetcode_dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/Aayush120205/leetcode_dsa/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Aayush120205/leetcode_dsa/tree/master/0704-binary-search) |
 ## Hash Table
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Aayush120205/leetcode_dsa/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aayush120205/leetcode_dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/Aayush120205/leetcode_dsa/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Aayush120205/leetcode_dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aayush120205/leetcode_dsa/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
