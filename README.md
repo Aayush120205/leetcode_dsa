@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Aayush120205/leetcode_dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/Aayush120205/leetcode_dsa/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Aayush120205/leetcode_dsa/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Aayush120205/leetcode_dsa/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Aayush120205/leetcode_dsa/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aayush120205/leetcode_dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aayush120205/leetcode_dsa/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Aayush120205/leetcode_dsa/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
