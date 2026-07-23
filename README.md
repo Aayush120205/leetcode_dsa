@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aayush120205/leetcode_dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aayush120205/leetcode_dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aayush120205/leetcode_dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2643-row-with-maximum-ones](https://github.com/Aayush120205/leetcode_dsa/tree/master/2643-row-with-maximum-ones) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Aayush120205/leetcode_dsa/tree/master/0410-split-array-largest-sum) |
+## Matrix
+|  |
+| ------- |
+| [2643-row-with-maximum-ones](https://github.com/Aayush120205/leetcode_dsa/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
