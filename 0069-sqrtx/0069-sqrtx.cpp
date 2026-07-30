@@ -1,17 +1,10 @@
+#include "../utils/binary_search.hpp"
+
 class Solution {
 public:
     int mySqrt(int x) {
-        int low = 1,high = x;
-        while(low <= high){
-            long long mid = low + (high - low) / 2;
-            long long val = mid * mid;
-            if (val <= x) {
-                low = mid + 1;
-            }
-            else{
-                high = mid -1;
-            }
-        }
-        return high;
-        }
+        return (int)dsa::lastTrue(0, x, [&](long long root) {
+            return root * root <= (long long)x;
+        });
+    }
 };
