@@ -52,7 +52,6 @@ public:
             first = first->next;
             second = second->next;
         }
-
-        return true;
+    return true;
     }
 };
