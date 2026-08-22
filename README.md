@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Aayush120205/leetcode_dsa/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/Aayush120205/leetcode_dsa/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/Aayush120205/leetcode_dsa/tree/master/0645-set-mismatch) |
 ## Sorting
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Aayush120205/leetcode_dsa/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aayush120205/leetcode_dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/Aayush120205/leetcode_dsa/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Aayush120205/leetcode_dsa/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Aayush120205/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aayush120205/leetcode_dsa/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aayush120205/leetcode_dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/Aayush120205/leetcode_dsa/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Aayush120205/leetcode_dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aayush120205/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Aayush120205/leetcode_dsa/tree/master/0328-odd-even-linked-list) |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Aayush120205/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Aayush120205/leetcode_dsa/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
