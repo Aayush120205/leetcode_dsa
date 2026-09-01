@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Aayush120205/leetcode_dsa/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Aayush120205/leetcode_dsa/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Aayush120205/leetcode_dsa/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Aayush120205/leetcode_dsa/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/Aayush120205/leetcode_dsa/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/Aayush120205/leetcode_dsa/tree/master/0645-set-mismatch) |
 ## Counting
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Aayush120205/leetcode_dsa/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Aayush120205/leetcode_dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aayush120205/leetcode_dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Aayush120205/leetcode_dsa/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Aayush120205/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aayush120205/leetcode_dsa/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aayush120205/leetcode_dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aayush120205/leetcode_dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Aayush120205/leetcode_dsa/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Aayush120205/leetcode_dsa/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Aayush120205/leetcode_dsa/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aayush120205/leetcode_dsa/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Aayush120205/leetcode_dsa/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Aayush120205/leetcode_dsa/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Aayush120205/leetcode_dsa/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Aayush120205/leetcode_dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aayush120205/leetcode_dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Aayush120205/leetcode_dsa/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Aayush120205/leetcode_dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aayush120205/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Aayush120205/leetcode_dsa/tree/master/0328-odd-even-linked-list) |
