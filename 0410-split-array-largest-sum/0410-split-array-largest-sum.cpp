@@ -16,6 +16,8 @@ public:
     }
 
     int splitArray(vector<int>& nums, int k) {
+        if (nums.empty()) return 0;
+
         int low = *max_element(nums.begin(), nums.end());
 
         int high = 0;
