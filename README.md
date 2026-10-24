@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aayush120205/leetcode_dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2104-sum-of-subarray-ranges](https://github.com/Aayush120205/leetcode_dsa/tree/master/2104-sum-of-subarray-ranges) |
 | [2643-row-with-maximum-ones](https://github.com/Aayush120205/leetcode_dsa/tree/master/2643-row-with-maximum-ones) |
+| [3477-fruits-into-baskets-ii](https://github.com/Aayush120205/leetcode_dsa/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aayush120205/leetcode_dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aayush120205/leetcode_dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aayush120205/leetcode_dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [3477-fruits-into-baskets-ii](https://github.com/Aayush120205/leetcode_dsa/tree/master/3477-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Aayush120205/leetcode_dsa/tree/master/0493-reverse-pairs) |
+| [3477-fruits-into-baskets-ii](https://github.com/Aayush120205/leetcode_dsa/tree/master/3477-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Aayush120205/leetcode_dsa/tree/master/0493-reverse-pairs) |
+| [3477-fruits-into-baskets-ii](https://github.com/Aayush120205/leetcode_dsa/tree/master/3477-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Aayush120205/leetcode_dsa/tree/master/0735-asteroid-collision) |
+| [3477-fruits-into-baskets-ii](https://github.com/Aayush120205/leetcode_dsa/tree/master/3477-fruits-into-baskets-ii) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
