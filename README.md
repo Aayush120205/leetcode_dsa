@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Aayush120205/leetcode_dsa/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Aayush120205/leetcode_dsa/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Aayush120205/leetcode_dsa/tree/master/0645-set-mismatch) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aayush120205/leetcode_dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Aayush120205/leetcode_dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aayush120205/leetcode_dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aayush120205/leetcode_dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Linked List
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aayush120205/leetcode_dsa/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Aayush120205/leetcode_dsa/tree/master/0402-remove-k-digits) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aayush120205/leetcode_dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Bracket Sequences
 |  |
 | ------- |
